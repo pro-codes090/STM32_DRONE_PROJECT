@@ -1,0 +1,2 @@
+../Core/Src/kalman.c:13:6:kalman_angle	48	static
+../Core/Src/kalman.c:35:6:kalman2D	4	static
